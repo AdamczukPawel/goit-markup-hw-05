@@ -89,6 +89,7 @@ header {
 .link:hover,
 .link:focus {
     color: #2196F3;
+    transition: ;
 }
 .contact>a {
     color: #757575;
